@@ -7,6 +7,16 @@
 
 ---
 
+## Preview
+
+**Dashboard View**
+![Dashboard](screenshots/dashboard.png)
+
+**Google Sheets Backend**
+![Google Sheets](screenshots/google-sheets.png)
+
+---
+
 ## The Problem
 
 As a business owner juggling multiple clients and team members, tracking who's doing what — and whether it's actually getting done — becomes a full-time job on its own. Spreadsheets get messy, updates get missed, and there's no easy way to see your team's workload at a glance without digging through rows of data.
@@ -81,8 +91,7 @@ Designed and built the entire system end-to-end — from architecting the Google
 # 5. Update SHEET_NAME in the .gs file to match your sheet tab name
 # 6. Update USER_PASSWORDS with your team's credentials
 # 7. Deploy → New Deployment → Web App → Execute as Me → Anyone with access
-# 8. Copy the deployment URL and replace YOUR_APPS_SCRIPT_DEPLOYMENT_URL in the HTML file
-# 9. Share the deployment URL with your team
+# 8. Copy the deployment URL and share with your team
 ```
 
 ---
