@@ -1,0 +1,19 @@
+# Spreadsheet data files
+*.xlsx
+*.xls
+*.csv
+
+# Environment & secrets
+.env
+.env.*
+*.key
+*.pem
+credentials.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
